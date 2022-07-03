@@ -1,5 +1,5 @@
 ## 1. Project name & Description
-Disaster Reporting System
+###### Disaster Reporting System
 Disaster Reporting System is a system created to collect data on disaster victims and assist volunteers in digitally managing disaster victim data as well as a system that distributes articles or information about disaster mitigation
 
 ## 2. Features (list down all features of your app)
