@@ -3,14 +3,14 @@ Disaster Reporting System
 Disaster Reporting System is a system created to collect data on disaster victims and assist volunteers in digitally managing disaster victim data as well as a system that distributes articles or information about disaster mitigation
 
 ## 2. Features (list down all features of your app)
-* User Page
-** Users can access information about disaster mitigation
-** Users can access disaster news information from volunteers
-** Users can access detailed disaster information from volunteers such as victim data, building damage data
+User Page
+* Users can access information about disaster mitigation
+* Users can access disaster news information from volunteers
+*Users can access detailed disaster information from volunteers such as victim data, building damage data
 
-* Volunteer Page
-** Volunteers can manage (CRUD) disaster news information
-** Volunteers can manage (CRUD) detailed information such as victim data, building damage data
+Volunteer Page
+* Volunteers can manage (CRUD) disaster news information
+* Volunteers can manage (CRUD) detailed information such as victim data, building damage data
 
 ## 3. How to install & run
 * git clone https://github.com/irvnh05/capstonegigih [A public project of github]
