@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  personal_identitty: 1
+  name: MyString
+  insident: MyString
+  location: MyString
+  status: MyString
+
+two:
+  personal_identitty: 1
+  name: MyString
+  insident: MyString
+  location: MyString
+  status: MyString
