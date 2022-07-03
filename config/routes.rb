@@ -9,7 +9,7 @@ Rails.application.routes.draw do
     namespace :v1 do
       resources :articles
       resources :reports
-      resource :users, param: :_username 
+      resources :users, param: :_username 
     end
   end
 end
